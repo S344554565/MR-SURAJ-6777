@@ -1,7 +1,7 @@
 from fbchat import Client
 from fbchat.models import *
 import time
-
+app = Flask(__MR SURAJ__)
 # ===== MR SURAJ =====
 EMAIL = "YOUR_EMAIL"
 PASSWORD = "YOUR_PASSWORD"
