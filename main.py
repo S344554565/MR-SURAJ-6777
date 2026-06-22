@@ -3,8 +3,8 @@ from fbchat.models import *
 import time
 
 # ===== MR SURAJ =====
-EMAIL = "YOUR_EMAIL"
-PASSWORD = "YOUR_PASSWORD"
+EMAIL = "hhsrt350@gmail.com"
+PASSWORD = "suraj@12345"
 
 # ===== GROUP SETTINGS =====
 GROUP_ID = "GROUP_THREAD_ID"
