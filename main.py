@@ -1,7 +1,7 @@
 from fbchat import Client
 from fbchat.models import *
 import time
-app = Flask(__MR SURAJ__)
+
 # ===== MR SURAJ =====
 EMAIL = "YOUR_EMAIL"
 PASSWORD = "YOUR_PASSWORD"
@@ -13,7 +13,7 @@ LOCKED_GROUP_NAME = "MY LOCKED GROUP"
 
 # User nicknames lock
 LOCKED_NICKNAMES = {
-    "USER_ID_1": "OWNER",
+    "USER_ID_1": "MR SURAJ ",
     "USER_ID_2": "ADMIN"
 }
 
